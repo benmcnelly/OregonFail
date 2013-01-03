@@ -1,0 +1,10 @@
+
+    body {
+      font-family: 'Finger Paint', cursive;
+    background: url(../images/start-bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    p {font-size: 17px; margin:14px;}
